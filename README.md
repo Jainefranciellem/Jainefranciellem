@@ -31,7 +31,7 @@
 
 ## Contact me
 <p>
-  📫 How to reach me: <a href='mailto:jainefranciellen@gmail.com'>xhttps://mail.google.com/mail/u/0/#inbox</a>
+  📫 How to reach me: <a href='mailto:jainefranciellen@gmail.com'>jainefranciellen@gmail.com</a>
 </p>
 
 <a href="https://www.linkedin.com/in/franciellem-dias-a3a54b248/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""></a> <strong align="center">franciellem</strong>
