@@ -6,9 +6,9 @@
 
  
 
-:computer: sou estudante de desenvolvimento web fullstack!
+:computer: Estudante de desenvolvimento web fullstack!
 
-:rocket: Sou estudante da trybe.
+:rocket: estudante na trybe.
 
 :books: cursando análise e desenvolvimento de sistemas.
 <br>
@@ -29,7 +29,7 @@
 
 </p>
 
-## Contact me
+## Meu contato
 <p>
   📫 How to reach me: <a href='mailto:jainefranciellen@gmail.com'>jainefranciellen@gmail.com</a>
 </p>
