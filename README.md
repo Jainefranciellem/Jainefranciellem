@@ -34,9 +34,9 @@
   📫 How to reach me: <a href='mailto:jainefranciellen@gmail.com'>jainefranciellen@gmail.com</a>
 </p>
 
-<a href="https://www.linkedin.com/in/franciellem-dias-a3a54b248/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""></a> <strong align="center">franciellem</strong>
+<a href="https://www.linkedin.com/in/franciellem-dias-a3a54b248/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""></a> <strong align="center">Franciellem Dias</strong>
 <br>
-<img width="111px" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt=""> <strong align="center">Jainefranciellem#4268</strong>
+<img width="111px" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt=""> <strong align="center">Franciellem#4268</strong>
 
 
 
