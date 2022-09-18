@@ -38,6 +38,3 @@
 <br>
 <img width="111px" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt=""> <strong align="center">Franciellem#4268</strong>
 
-![ Animação de cobra ](https://github.com/Jainefranciellem/blob/output/github-contribution-grid-snake.svg)
-
-
