@@ -6,9 +6,7 @@
 
  
 
-:computer: Estudante de desenvolvimento web fullstack!
-
-:rocket: estudante na trybe.
+:computer: Estudante de desenvolvimento web fullstack na trybe! :rocket:
 
 :books: cursando análise e desenvolvimento de sistemas.
 <br>
