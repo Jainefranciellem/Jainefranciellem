@@ -1,4 +1,4 @@
-# Bem vindo!
+#Olá, seja bem vindo! 👋
 
 
 ```javascript
@@ -21,10 +21,10 @@ export default {
     frontend: [
       'HTML5', 'CSS3', 'Javascript', 'Jest',
       'React', 'Redux', 'Context API', 'Hooks',
-      'RTL', 'Jest',
+      'RTL', 'Jest', 'tailwind', 
     ],
     ferramentas: [
-      'Git', 'Github', trello,
+      'Git', 'Github', 'trello',
     ],
   },
 };
@@ -43,11 +43,15 @@ export default {
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="">
 
-
-
 </p>
 
-## Meu contato
+## 🏆 Trofeus GitHub 
+
+<p align="center">
+ <img src="https://github-profile-trophy.vercel.app/?username=Jainefranciellem&theme=discord&row=1" alt="Jaine franciellem" />
+</p>
+
+##  👥 Meu contato 
 <p>
   📫 How to reach me: <a href='mailto:jainefranciellen@gmail.com'>jainefranciellen@gmail.com</a>
 </p>
