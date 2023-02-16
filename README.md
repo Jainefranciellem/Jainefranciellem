@@ -8,13 +8,13 @@ export default {
   Estudante: 'Desenvolvemento Web Full Stack',
   Faculdade: 'Análise e desenvolvimento de sistemas',
   hobbies: ['Desenhar', 'Series', 'Ler', 'Jogar Xadrez', 'Animes'],
-  email: ['andre.horman1994@hotmail.com', 'andrehormandev@gmail.com'],
+  email: 'jainefranciellen@gmail.com',
   linkedin: 'https://www.linkedin.com/in/franciellem-dias/'
   contato: '(79) 99673-3389',
   description: {
-    myProfile: Sou entusiasta do conhecimento, completamente apaixonada por todo o processo de aprendizagem,
+    myProfile: 'Sou entusiasta do conhecimento, completamente apaixonada por todo o processo de aprendizagem,
       motivo pelo qual me encontrei na programação,
-      área em que se está sempre aprendendo coisas novas e onde a colaboração é essencial.
+      área em que se está sempre aprendendo coisas novas e onde a colaboração é essencial'.
   },
   skills: {
     languagem: 'JavaScript',
