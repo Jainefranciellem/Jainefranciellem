@@ -11,20 +11,20 @@ export default {
   email: 'jainefranciellen@gmail.com',
   linkedin: 'https://www.linkedin.com/in/franciellem-dias/'
   contato: '(79) 99673-3389',
-  description: {
-    myProfile: 'Sou entusiasta do conhecimento, completamente apaixonada por todo o processo de aprendizagem,
+  descrição: {
+    meu perfil: 'Sou entusiasta do conhecimento, completamente apaixonada por todo o processo de aprendizagem,
       motivo pelo qual me encontrei na programação,
       área em que se está sempre aprendendo coisas novas e onde a colaboração é essencial'.
   },
-  skills: {
-    languagem: 'JavaScript',
+  habilidades: {
+    linguagem: 'JavaScript',
     frontend: [
       'HTML5', 'CSS3', 'Javascript', 'Jest',
       'React', 'Redux', 'Context API', 'Hooks',
       'RTL', 'Jest',
     ],
-    tools: [
-      'Git', 'Github'
+    ferramentas: [
+      'Git', 'Github', trello,
     ],
   },
 };
