@@ -31,7 +31,6 @@ export default {
 };
 ```
 <br>
-<br>
 
 ## 📈 Estatísticas:
 <p align='center'>
