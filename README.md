@@ -52,12 +52,10 @@ export default {
  <img src="https://github-profile-trophy.vercel.app/?username=Jainefranciellem&theme=discord&row=1" alt="Jaine franciellem" />
 </p>
 
-##  👥 Meu contato 
-<p>
-  📫 How to reach me: <a href='mailto:jainefranciellen@gmail.com'>jainefranciellen@gmail.com</a>
-</p>
+##  👥 Meu contato
 
-<a href="https://www.linkedin.com/in/franciellem-dias-a3a54b248/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""></a> <strong align="center">Franciellem Dias</strong>
-<br>
-<img width="111px" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt=""> <strong align="center">Franciellem#4268</strong>
+<p align="center">
+<a href="https://www.linkedin.com/in/franciellem-dias/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="mailto:jainefranciellen@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+</p>
 
