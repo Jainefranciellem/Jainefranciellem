@@ -35,7 +35,7 @@ export default {
 
 ## 📈 Estatísticas:
 <p align='center'>
-  <a href="#"><img width="410px" src="https://github-readme-stats.vercel.app/api?username=Jainefranciellem&show_icons=true&theme=dracula&count_private=true&service=github" alt=""></a>
+  <a href="#"><img width="409px" src="https://github-readme-stats.vercel.app/api?username=Jainefranciellem&show_icons=true&theme=dracula&count_private=true&service=github" alt=""></a>
   <a href="#"><img width="410px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jainefranciellem&layout=compact&theme=dracula&count_private=true&service=github" alt=""></a>
 </p>
 
