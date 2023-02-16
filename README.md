@@ -1,6 +1,7 @@
-#Olá, seja bem vindo! 👋
+# Olá, seja bem vindo! 👋
 
 
+## 💫 Sobre mim
 ```javascript
 export default {
   nome: 'Jaine Francielem Santos Dias',
