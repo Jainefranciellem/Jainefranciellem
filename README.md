@@ -9,10 +9,10 @@ export default {
   Faculdade: 'Análise e desenvolvimento de sistemas',
   hobbies: ['Desenhar', 'Series', 'Ler', 'Jogar Xadrez', 'Animes'],
   email: 'jainefranciellen@gmail.com',
-  linkedin: 'https://www.linkedin.com/in/franciellem-dias/'
+  linkedin: 'https://www.linkedin.com/in/franciellem-dias/',
   contato: '(79) 99673-3389',
   descrição: {
-    meu perfil: 'Sou entusiasta do conhecimento, completamente apaixonada por todo o processo de aprendizagem,
+    perfil: 'Sou entusiasta do conhecimento, completamente apaixonada por todo o processo de aprendizagem,
       motivo pelo qual me encontrei na programação,
       área em que se está sempre aprendendo coisas novas e onde a colaboração é essencial'.
   },
