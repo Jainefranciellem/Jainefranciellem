@@ -22,11 +22,7 @@ export default {
 <br>
 
 ## 📈 Statistics:
-  <a href="#"><img width="450px" src="https://github-readme-stats.vercel.app/api?username=Jainefranciellem&show_icons=true&theme=dracula&count_private=true&service=github" alt=""></a>
-  <a href="#"><img width="410px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jainefranciellem&layout=compact&theme=dracula&count_private=true&service=github" alt="">
-  </a>
-[![GitHub stats]([https://github-readme-stats.vercel.app/api?username=mcoutodev&count_private=true&show_icons=true&theme=react&bg_color=00000000&hide_border=true&rank_icon=github](https://github-readme-stats.vercel.app/api?username=Jainefranciellem&show_icons=true&theme=dracula&count_private=true&service=github))](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=mcoutodev&theme=react&bg_color=00000000&hide_border=true&layout=donut)](https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Jainefranciellem&layout=compact&theme=dracula&count_private=true&service=github))
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jainefranciellem&show_icons=true&theme=transparent)
 
 ## 🛠 Skills
 
