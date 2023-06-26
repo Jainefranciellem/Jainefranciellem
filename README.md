@@ -23,6 +23,8 @@ export default {
 
 ## 📈 Statistics:
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jainefranciellem&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jainefranciellem&theme=react&bg_color=00000000&hide_border=true&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jainefranciellem&layout=compact&theme=react&bg_color=00000000&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🛠 Skills
 
