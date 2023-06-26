@@ -22,7 +22,7 @@ export default {
 <br>
 
 ## 📈 Statistics:
-  <a href="#"><img width="410px" src="https://github-readme-stats.vercel.app/api?username=Jainefranciellem&show_icons=true&theme=dracula&count_private=true&service=github" alt=""></a>
+  <a href="#"><img width="450px" src="https://github-readme-stats.vercel.app/api?username=Jainefranciellem&show_icons=true&theme=dracula&count_private=true&service=github" alt=""></a>
   <a href="#"><img width="410px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jainefranciellem&layout=compact&theme=dracula&count_private=true&service=github" alt=""></a>
 
 ## 🛠 Skills
