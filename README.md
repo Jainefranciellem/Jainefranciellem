@@ -1,7 +1,7 @@
 # Hello, welcome! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />
 
 
-## 💫 Sobre mim
+## 💫 About me
 ```javascript
 export default {
   name: 'Jaine Francielem Santos Dias',
